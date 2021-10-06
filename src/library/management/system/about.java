@@ -47,15 +47,12 @@ public class about extends JFrame{
            
 
 
-            JLabel l6 = new JLabel("Developed By : Yasir(203),Vignesh(314)");
+            JLabel l6 = new JLabel("Developed By : Yasir(203)");
             l6.setFont(new Font("Trebuchet MS", Font.BOLD, 30));
             l6.setBounds(70, 198, 600, 35);
             contentPane.add(l6);
 
-            JLabel l7 = new JLabel("Riyas(311)");
-            l7.setFont(new Font("Trebuchet MS", Font.BOLD, 30));
-            l7.setBounds(290, 260, 600, 34);
-            contentPane.add(l7);
+         
 
                 
                 
